@@ -38,7 +38,12 @@
 	      <!--<scope>test</scope>-->
 	  </dependency>	
 	  
-	  
+	  <dependency>
+    	<groupId>org.postgresql</groupId>
+    	<artifactId>postgresql</artifactId>
+    	<version>42.7.3</version> <!-- 2025년 현재 최신 안정 버전 기준 -->
+	  </dependency>
+
 	  
 
   </dependencies>
